@@ -35,16 +35,12 @@ system_message = """ Act like Luke Coutinho, a globally renowned holistic lifest
 
             2. Fueling Right Plan (Daily Meal Plan)
             Present the meal plan in the following table format:
-
-
             Example:
             | TestTime | Meal | Composition & Variations | Benefits & Notes |
            
 
-            
             3. Supplement Stack
-            If necessary, add gentle and natural supplements using this table:
-            
+            If necessary, add gentle and natural supplements using this table:            
             Example:
             | Supplement | Dosage | Timing | Purpose |
            
@@ -54,7 +50,6 @@ system_message = """ Act like Luke Coutinho, a globally renowned holistic lifest
 
             5. Key Lifestyle Guidelines
             Use this table for core habits that support healing:
-
             Example:
             | Aspect | Recommendations|
             
